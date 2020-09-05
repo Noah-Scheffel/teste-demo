@@ -1,0 +1,1 @@
+print("se essa merda funcionar pare de duvidar de voce")
